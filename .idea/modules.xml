@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AirPlaneGame/.idea/AirPlaneGame.iml" filepath="$PROJECT_DIR$/../AirPlaneGame/.idea/AirPlaneGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode.iml" filepath="$PROJECT_DIR$/.idea/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ML(zou)/.idea/ML(zou).iml" filepath="$PROJECT_DIR$/../ML(zou)/.idea/ML(zou).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spider/.idea/spider.iml" filepath="$PROJECT_DIR$/../spider/.idea/spider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../坚果云/论文/实验/.idea/test.iml" filepath="$PROJECT_DIR$/../../坚果云/论文/实验/.idea/test.iml" />
+    </modules>
+  </component>
+</project>
